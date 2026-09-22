@@ -1,5 +1,8 @@
 <div align="center">
 
+
+![cover](assets/cover.png)
+
 # external-skill-adoption
 
 **给一个外部 GitHub 仓库，按"定位→审查→安装→A/B实测→沉淀"五步决定要不要用。**
